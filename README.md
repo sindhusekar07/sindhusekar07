@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Masters of Engineering(Software)
 - 💞️ I’m looking to collaborate on development projects
-- 📫 How to reach me +1 548-994-4577
+- 📫 How to reach me sindhushekhar712@gmail.com
 
 <!---
 sindhusekar07/sindhusekar07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
